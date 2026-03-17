@@ -1,4 +1,4 @@
-# 👋 Namaste(); I'm Deepak Kumar
+# I'm Deepak Kumar
 
 ## About Me:
 
