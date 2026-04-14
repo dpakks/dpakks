@@ -51,6 +51,3 @@ I don't just deploy models; I build the infrastructure around them.
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
----
-
-![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dpakks&show_icons=true&theme=tokyonight&hide_border=true)
