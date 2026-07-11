@@ -14,7 +14,7 @@ I don't just deploy models; I build the infrastructure around them.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dpakks/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepakkumar.somasundaram@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8000ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://my-portfolio-three-tau-1zimms84h5.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8000ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dpakks.site/)
 
 ## Tech Stack:
 
