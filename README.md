@@ -2,13 +2,15 @@
 
 ## About Me:
 
-I'm a Software Engineer pursuing my Master's in Information Systems at Northeastern University, passionate about building cloud-native systems, developer platforms, and AI-powered applications.
+I'm a Software Engineer specializing in **Generative AI, Backend Development, and Cloud Infrastructure**, with a Master's in Information Systems from **Northeastern University**.
 
-I enjoy taking ideas from development all the way to production—designing scalable infrastructure, automating deployments, building reliable backend services, and integrating large language models into real-world products. My recent work has focused on RAG systems, AI agents, and developer automation powered by modern LLMs.
+I build AI-powered applications that go beyond prompts—designing RAG pipelines, LLM-powered developer tools, and agentic workflows while engineering the cloud infrastructure they run on. My work spans scalable backend services, cloud-native architectures, infrastructure as code, and CI/CD systems that take software from development to production reliably.
 
-I believe good software isn't just about writing code—it's about building systems that are reliable, maintainable, and easy to ship.
+I enjoy building end-to-end systems where AI, backend engineering, and cloud automation come together to solve real-world problems. Whether it's deploying microservices, orchestrating cloud infrastructure, integrating foundation models through AWS Bedrock, or building MCP-enabled AI agents, I focus on creating production-ready software that developers can trust.
 
-*"Automate. Deploy. Repeat."*
+I'm passionate about building software that is intelligent, scalable, and easy to ship.
+
+*"Automate. Build. Deploy. Repeat."*
 
 ## Socials:
 
