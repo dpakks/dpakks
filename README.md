@@ -2,11 +2,11 @@
 
 ## About Me:
 
-I'm a Cloud & DevOps engineer pursuing my Master's in Information Systems at Northeastern University. I'm obsessed with making developer lives easier — if a process is manual, repetitive, or fragile, I'll automate it, pipeline it, and make it self-healing.
+I'm a Software Engineer pursuing my Master's in Information Systems at Northeastern University, passionate about building cloud-native systems, developer platforms, and AI-powered applications.
 
-I design cloud infrastructure that scales on its own, build CI/CD systems that deploy on push, and architect backends that teams can actually rely on. Lately, I've been exploring the AI engineering space — experimenting with large language models and figuring out how to make AI actually useful in real products.
+I enjoy taking ideas from development all the way to production—designing scalable infrastructure, automating deployments, building reliable backend services, and integrating large language models into real-world products. My recent work has focused on RAG systems, AI agents, and developer automation powered by modern LLMs.
 
-I don't just deploy models; I build the infrastructure around them.
+I believe good software isn't just about writing code—it's about building systems that are reliable, maintainable, and easy to ship.
 
 *"Automate. Deploy. Repeat."*
 
@@ -28,6 +28,15 @@ I don't just deploy models; I build the infrastructure around them.
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Packer](https://img.shields.io/badge/Packer-02A8EF?style=for-the-badge&logo=packer&logoColor=white)
 
+#### AI Development
+![LLMs](https://img.shields.io/badge/LLMs-6C63FF?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic_API-D97757?style=for-the-badge)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
+
 #### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -43,11 +52,10 @@ I don't just deploy models; I build the infrastructure around them.
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 #### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
