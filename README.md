@@ -4,7 +4,7 @@
 
 I'm a Software Engineer specializing in **Generative AI, Backend Development, and Cloud Infrastructure**, with a Master's in Information Systems from **Northeastern University**.
 
-I build AI-powered applications that go beyond prompts—designing RAG pipelines, LLM-powered developer tools, and agentic workflows while engineering the cloud infrastructure they run on. My work spans scalable backend services, cloud-native architectures, infrastructure as code, and CI/CD systems that take software from development to production reliably.
+I build AI-powered applications that go beyond prompts designing RAG pipelines, LLM-powered developer tools, and agentic workflows while engineering the cloud infrastructure they run on. My work spans scalable backend services, cloud-native architectures, infrastructure as code, and CI/CD systems that take software from development to production reliably.
 
 I enjoy building end-to-end systems where AI, backend engineering, and cloud automation come together to solve real-world problems. Whether it's deploying microservices, orchestrating cloud infrastructure, integrating foundation models through AWS Bedrock, or building MCP-enabled AI agents, I focus on creating production-ready software that developers can trust.
 
